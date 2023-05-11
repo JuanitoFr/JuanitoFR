@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanitofr&label=Profile%20views&color=0e75b6&style=flat" alt="juanitofr" /> </p>
 
-- 🔭 I’m currently working at [SQLI](https//www.sqli.com)
+- 🔭 I’m currently working at [SQLI](https://www.sqli.com)
 
 - 👨‍💻 All of my projects are available at [https://www.juanito.pro](https://www.juanito.pro)
 
