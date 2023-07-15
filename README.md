@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [SQLI](https://www.sqli.com)
 
-- 👨‍💻 All of my projects are available at [https://www.juanito.pro](https://www.juanito.pro)
+- 👨‍💻 Check my portfolio at [https://www.juanito.pro](https://www.juanito.pro)
 
 - 📫 How to reach me **contact@juanito.pro**
 
